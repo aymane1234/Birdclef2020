@@ -1,5 +1,5 @@
 # Birdclef2020
-The plan for this project with look somehow like :
+This is the implementation of the BirdCLEF 2020 submission by.... within the ... project.
 # 0-Preliminaries
 # 0.1- Setup
 # 1-Script/notebook to prepare metadata
