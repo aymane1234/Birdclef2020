@@ -6,9 +6,9 @@
 # In[ ]:
 #Important: 
 #For the pp.preprocess function to work we need to adjust our soundfile to how it was implemented. To achieve this the soundfiles should be:
-#1-Turn mp3 to wavs then resample them to 22050 Hz
-#2-They need to be mono "one channel"
-#3-Sample width 16 bits
+#1-Turn mp3 to wavs then resample them to 22050 Hz ----> Use test_convert.py
+#2-They need to be mono "one channel" ----> Use generate the mono files......ipynb
+#3-Sample width 16 bits ----> Also done automatically by test_convert.py
 #This code might still need some adjusments, so that you integrate the split and do the feature extraction but i have investigate the pp.... function and it should work if one do these steps :)  
 config = [
     
