@@ -59,7 +59,7 @@ One possible approach:
 
 4-use these clusters to aggregate a training set
 
-5-train a bird-song detector
+5-train a bird-song detector (Birdsong detector ie: It identifies segments in the recording, where birdsongs can be heard)
 
 6-Using this birdsong/silence detector to extract only MelSpecs with birdsongs. This should dramatically improve the model "Better data, better output"
 
